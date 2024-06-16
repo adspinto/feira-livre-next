@@ -1,10 +1,10 @@
 "use client";
 
-export default function Categories() {
+export default function TermsOfService() {
     return (
         <div>
-            <h1>Categories</h1>
-            <span>Categories Page</span>
+            <h1>TermsOfService</h1>
+            <span>TermsOfService Page</span>
         </div>
     );
 }

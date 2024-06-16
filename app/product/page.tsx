@@ -1,10 +1,10 @@
 "use client";
 
-export default function Categories() {
+export default function Product() {
     return (
         <div>
-            <h1>Categories</h1>
-            <span>Categories Page</span>
+            <h1>Product</h1>
+            <span>Product Page</span>
         </div>
     );
 }

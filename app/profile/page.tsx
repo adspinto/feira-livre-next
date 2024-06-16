@@ -1,10 +1,10 @@
 "use client";
 
-export default function Categories() {
+export default function Profile() {
     return (
         <div>
-            <h1>Categories</h1>
-            <span>Categories Page</span>
+            <h1>Profile</h1>
+            <span>Profile Page</span>
         </div>
     );
 }
